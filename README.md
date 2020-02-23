@@ -1,2 +1,2 @@
-# CPP_Project
-School project for CPP
+# C++ Project
+School project for C++
