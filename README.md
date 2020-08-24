@@ -1,2 +1,2 @@
 # C++ Project
-School project for C++
+Simple project for C++
